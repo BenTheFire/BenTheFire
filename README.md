@@ -9,4 +9,4 @@ You wondered onto my profile, maybe misclicked, maybe you want notes, maybe you 
 - I love fries 🍟
 
 ### Current Projects:
-- I'm currently developing Thunder of Heroes, a tracker/guide app for Heroes of the Storm. (like Porofessor for League of Legends)
+- I'm currently developing Engine Eterantia, a DnD-esque Boardgame Handling Engine.
